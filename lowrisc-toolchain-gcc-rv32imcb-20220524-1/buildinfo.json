@@ -1,0 +1,11 @@
+{
+  "toolchain_config": "lowrisc-toolchain-gcc-rv32imcb",
+  "kind": "gcc-only",
+  "version": "20220524-1",
+  "gcc_version": "riscv32-unknown-elf-gcc (crosstool-NG 1.24.0.498_5075e1f) 10.2.0",
+  "crosstool-ng_version": "This is crosstool-NG version 1.24.0.498_5075e1f",
+  "crosstool-ng_url": "https://github.com/crosstool-ng/crosstool-ng.git",
+  "crosstool-ng_git": "5075e1f98e4329502682746cc30fa5c0c5a19d26",
+  "build_date": "Tue May 24 14:19:12 UTC 2022",
+  "build_host": "52f7184ecdbf"
+}
