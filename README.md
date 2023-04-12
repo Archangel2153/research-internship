@@ -5,6 +5,5 @@
 This repository contains:
 - Internship Report
 - Ibex Core - Vivado Project: Manual Synthesis
-- Ibex Demo System (https://github.com/lowrisc/ibex-demo-system): Automated Synthesis & Compiled Programs
-  - TinyAES (https://github.com/kokke/tiny-AES-c): Modified for Ibex Core & Arty A7 35T
+- TinyAES (https://github.com/kokke/tiny-AES-c): Modified for Ibex Demo System (https://github.com/lowrisc/ibex-demo-system) & Arty A7 35T. Refer to the report for further instructions.
 - RV32IMC GCC Toolchain (https://github.com/lowRISC/lowrisc-toolchains/releases)
